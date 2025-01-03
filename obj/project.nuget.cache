@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mXyD268VotZyLBt1oGf028HDX8E9gyGVXtv3DLMFq9u0qACt6iVrT+8LARuvE3P/+xErNZAEuD9/mqPUw3If+Q==",
+  "success": true,
+  "projectFilePath": "/Users/shawnvera/Documents/Coding/csharp/DesignPatternsInCSharp/DesignPatternsInCSharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/shawnvera/.nuget/packages/dapper/2.1.35/dapper.2.1.35.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "x0XL6kCwXSD0k9v4rQGRmM8KJoU+77FHIHRtIpoFyl9MNs7yiSJoaczodW98DNXn1KZE1oMNsC7/XZLaWhgntg==",
+  "success": true,
+  "projectFilePath": "/Users/shawnvera/Documents/Coding/csharp/DesignPatternsInCSharp/DesignPatternsInCSharp/DesignPatternsInCSharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/shawnvera/.nuget/packages/dapper/2.1.35/dapper.2.1.35.nupkg.sha512",
+    "/Users/shawnvera/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/Users/shawnvera/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/Users/shawnvera/.nuget/packages/mysqlconnector/2.4.0-beta.2/mysqlconnector.2.4.0-beta.2.nupkg.sha512",
+    "/Users/shawnvera/.nuget/packages/system.diagnostics.diagnosticsource/8.0.1/system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -6,7 +6,7 @@ public class SourceDataAccess
 
     public string? Database => database;
 
-    private string sql = "SELECT * FROM products";
+    // private string sql = "SELECT * FROM products";
     private List<Product> products = new List<Product>();
 // using (var connection = private new SqlConnection(connString))
 // {

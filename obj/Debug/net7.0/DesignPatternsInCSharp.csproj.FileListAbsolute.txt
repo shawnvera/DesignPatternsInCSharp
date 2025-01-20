@@ -1,0 +1,6 @@
+/Users/shawnvera/Documents/Coding/csharp/DesignPatternsInCSharp/obj/Debug/net7.0/DesignPatternsInCSharp.csproj.AssemblyReference.cache
+/Users/shawnvera/Documents/Coding/csharp/DesignPatternsInCSharp/obj/Debug/net7.0/DesignPatternsInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shawnvera/Documents/Coding/csharp/DesignPatternsInCSharp/obj/Debug/net7.0/DesignPatternsInCSharp.AssemblyInfoInputs.cache
+/Users/shawnvera/Documents/Coding/csharp/DesignPatternsInCSharp/obj/Debug/net7.0/DesignPatternsInCSharp.AssemblyInfo.cs
+/Users/shawnvera/Documents/Coding/csharp/DesignPatternsInCSharp/obj/Debug/net7.0/DesignPatternsInCSharp.csproj.CoreCompileInputs.cache
+/Users/shawnvera/Documents/Coding/csharp/DesignPatternsInCSharp/obj/Debug/net7.0/DesignPatternsInCSharp.sourcelink.json

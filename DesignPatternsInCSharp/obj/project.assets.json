@@ -337,11 +337,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shawnvera/Documents/Coding/csharp/DesignPatternsInCSharp/DesignPatternsInCSharp/DesignPatternsInCSharp.csproj",
+      "projectUniqueName": "/Users/shawnvera/Documents/GitHub/DesignPatternsInCSharp/DesignPatternsInCSharp/DesignPatternsInCSharp.csproj",
       "projectName": "DesignPatternsInCSharp",
-      "projectPath": "/Users/shawnvera/Documents/Coding/csharp/DesignPatternsInCSharp/DesignPatternsInCSharp/DesignPatternsInCSharp.csproj",
+      "projectPath": "/Users/shawnvera/Documents/GitHub/DesignPatternsInCSharp/DesignPatternsInCSharp/DesignPatternsInCSharp.csproj",
       "packagesPath": "/Users/shawnvera/.nuget/packages/",
-      "outputPath": "/Users/shawnvera/Documents/Coding/csharp/DesignPatternsInCSharp/DesignPatternsInCSharp/obj/",
+      "outputPath": "/Users/shawnvera/Documents/GitHub/DesignPatternsInCSharp/DesignPatternsInCSharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/shawnvera/.nuget/NuGet/NuGet.Config"

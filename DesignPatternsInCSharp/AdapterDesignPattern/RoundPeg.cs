@@ -12,6 +12,6 @@ public class RoundPeg : IRoundPeg
 
     public double GetRadius()
     {
-        return _radius
+        return _radius;
     }
 }
